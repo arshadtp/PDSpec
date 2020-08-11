@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XBZ'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A short description of XBZ.'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Arshad' => '2arshu@gmail.com' }
-  s.source           = { :git => 'https://github.com/arshadtp/PdSource.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/arshadtp/PdSource.git', :tag => s.version }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.platform = :osx
